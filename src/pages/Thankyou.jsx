@@ -14,7 +14,7 @@ const Thankyou = () => {
               alt="logo"
               width="75"
               height="75"
-              className="h-[3.5rem] lg:h-[5rem] object-contain"
+              className="w-[8rem] lg:w-[10rem] object-contain"
             />
           </Link>
         </div>
